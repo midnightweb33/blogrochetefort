@@ -1,2 +1,4 @@
 # blogrochetefort
-création d'un blog pour un ecrivain dans le cadre d'une formation openclassroom
+création d'un blog pour un ecrivain dans le cadre d'une formation openclassroos
+
+   Vous trouverez tous mes commits du d�but a la fin de mon projet.
